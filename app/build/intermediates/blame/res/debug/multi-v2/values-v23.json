@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Xiao En\\Downloads\\AndroidTrivia-Starter-20191117T160003Z-001\\AndroidTrivia-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\aa363a5391c1441eefa5cb90f5695735\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\ede2b1611fbe561a668ca516310099cb\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-1.0.0-rc01.aar\\daf0094f79f1c3d1c4fdd4eb4c743e64\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-1.0.0.aar\\1096961062011d3fb89d75b55256fd2f\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

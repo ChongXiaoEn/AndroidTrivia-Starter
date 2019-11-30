@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Xiao En\\Downloads\\AndroidTrivia-Starter-20191117T160003Z-001\\AndroidTrivia-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\aa363a5391c1441eefa5cb90f5695735\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\ede2b1611fbe561a668ca516310099cb\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Xiao En\\Downloads\\AndroidTrivia-Starter-20191117T160003Z-001\\AndroidTrivia-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-rc01.aar\\67b4e62c1443af661addb2493531d923\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\0bba62d066997e3daa0df5ec7f97ff51\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\aa363a5391c1441eefa5cb90f5695735\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\ede2b1611fbe561a668ca516310099cb\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
