@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Xiao En\\Downloads\\AndroidTrivia-Starter-20191117T160003Z-001\\AndroidTrivia-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\Xiao En\\Desktop\\AndroidTrivia-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-beta01.aar\\c34f740a55b2aede9be09f1f4ded455e\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-beta01.aar\\0ea54d787b4c5d1b76cc49d0c7d810bf\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\ede2b1611fbe561a668ca516310099cb\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Xiao En\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1b4f9247a6508da65049aeb91c8c8a0d\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
